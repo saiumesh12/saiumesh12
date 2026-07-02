@@ -1,34 +1,35 @@
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" alt="wave"/>
-  <h1>Hi there, I'm Sai Umesh Devabhakthuni 👋</h1>
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Aspiring+AI+%26+Data+Science+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Deep+Learning;Building+AI+Solutions+for+Real+World+Problems" alt="Typing SVG"/>
-  </a>
+# 👋 Hi, I'm Sai Umesh Devabhakthuni
+
+### AI Engineer • Data Science Enthusiast • Python Developer
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Enthusiast;Deep+Learning+Developer;Computer+Vision+Learner;Data+Science+Student;Building+Real-World+AI+Applications" alt="Typing SVG" />
+</a>
+
 </div>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a passionate **Computer Science (Data Science)** student with a strong interest in **Artificial Intelligence, Machine Learning, Deep Learning, and Data Analytics**. I enjoy building intelligent applications that solve real-world problems and continuously explore new technologies to improve my skills.
+🎓 B.Tech in **Computer Science & Engineering (Data Science)**
+
+📍 Hyderabad, Telangana, India
+
+I'm passionate about building **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Computer Vision** applications that solve real-world problems.
+
+I enjoy learning emerging technologies and turning ideas into intelligent software solutions.
 
 ### 🌱 Currently Learning
+
 - Artificial Intelligence
+- Machine Learning
 - Deep Learning
-- Data Analytics
+- Computer Vision
 - Prompt Engineering
 - Full Stack AI Development
-
-### 💡 Interests
-- AI Applications
-- Computer Vision
-- Natural Language Processing
-- Data Visualization
-- Intelligent Automation
 
 ---
 
@@ -36,70 +37,123 @@ I'm a passionate **Computer Science (Data Science)** student with a strong inter
 
 ## 🧠 Hate Speech Detection Using Deep Learning
 
-A Deep Learning-based web application that detects hate speech from user-input text using Natural Language Processing techniques. The model classifies text into hate speech or non-hate speech and provides instant predictions through an intuitive web interface.
+A Deep Learning-based web application that identifies hate speech from text using Natural Language Processing. The model classifies user input as hate speech or non-hate speech and delivers real-time predictions through an interactive web interface.
 
-**🔹 Features**
-- Real-time hate speech detection
-- Deep learning-based text classification
-- NLP preprocessing pipeline
-- Interactive web interface
+### Features
 
-**🛠 Tech Stack**
-- Python
-- TensorFlow
-- Keras
-- NLP
-- HTML
-- CSS
+- Real-time text classification
+- NLP preprocessing
+- Deep Learning model
+- Responsive web interface
+
+**Tech Stack**
+
+`Python` `TensorFlow` `Keras` `NLP` `HTML` `CSS`
 
 ---
 
 ## 🎥 Facial Gesture Based Computer Control System
 
-A Computer Vision application that allows users to control their computer using facial gestures. The system tracks facial landmarks through a webcam and performs actions such as cursor movement, clicking, scrolling, and volume control without requiring a mouse.
+A Computer Vision application that enables users to control their computer using facial gestures. The system tracks facial landmarks using a webcam and allows cursor movement, clicking, scrolling, and volume control without a mouse.
 
-**🔹 Features**
-- Face tracking using webcam
-- Cursor movement with facial gestures
-- Click and scrolling controls
-- Hands-free computer interaction
+### Features
 
-**🛠 Tech Stack**
-- Python
-- OpenCV
-- MediaPipe
-- Computer Vision
-- Machine Learning
+- Face Tracking
+- Cursor Control
+- Click Detection
+- Scrolling
+- Hands-Free Computer Interaction
+
+**Tech Stack**
+
+`Python` `OpenCV` `MediaPipe` `Computer Vision`
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Technical Skills
 
-### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" />
-</p>
+## Programming Languages
 
-### 🤖 AI & Data Science
-- Deep Learning
+- Python
+- Java
+- SQL
+- HTML5
+- CSS3
+
+---
+
+## Artificial Intelligence
+
 - Machine Learning
+- Deep Learning
+- Computer Vision
 - Natural Language Processing
 - Prompt Engineering
-- Power BI
-- Microsoft Excel
 
 ---
 
+## Data Analytics
+
+- Power BI
+- Microsoft Excel
+- Data Visualization
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 📚 Currently Exploring
+
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Generative AI
+- Full Stack AI
+
+---
+
+# 🎯 Career Goals
+
+- Build Production-Ready AI Applications
+- Master Generative AI
+- Contribute to Open Source
+- Work as an AI / Machine Learning Engineer
+- Continuously Learn New Technologies
+
+---
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-umesh-devabhakthuni-393272251/)
+<a href="mailto:saiumeshdevabhakthuni@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sai_umesh_chowwdary_/)
+<a href="https://www.linkedin.com/in/sai-umesh-devabhakthuni-393272251/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiumeshdevabhakthuni@gmail.com)
+<a href="https://www.instagram.com/_sai_umesh_chowwdary_/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### *"The best way to predict the future is to build it."*
 
 </div>
 
@@ -107,8 +161,10 @@ A Computer Vision application that allows users to control their computer using 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thank You for Visiting My Profile!
 
-*"Building intelligent solutions one project at a time."*
+If you like my work, consider giving a ⭐ to my repositories.
+
+**Let's build something amazing with AI! 🚀**
 
 </div>
